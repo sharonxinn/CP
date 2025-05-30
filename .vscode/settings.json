@@ -5,6 +5,8 @@
         "algorithm": "cpp",
         "format": "cpp",
         "unordered_set": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
     }
 }
